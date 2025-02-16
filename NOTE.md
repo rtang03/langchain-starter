@@ -1,0 +1,1 @@
+https://github.com/langchain-ai/langserve/blob/main/examples/local_llm/client.ipynb
